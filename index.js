@@ -22,7 +22,12 @@ function johnLennonFacts(factsArray) {
 //I Love The Beatles
 function iLoveTheBeatles(n) {
   var loveBeatlesArray = [];
+  var i = 0;
+  do {
+  loveBeatlesArray[i] = "I love the Beatles!"
+  n = n + 1
+  i = i + 1
+} while (n < 15);
   
-  
-  
+return loveBeatlesArray  
 }

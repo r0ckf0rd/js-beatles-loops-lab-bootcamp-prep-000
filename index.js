@@ -17,3 +17,12 @@ function johnLennonFacts(factsArray) {
   }
   return excitedFactsArray
 }
+
+
+//I Love The Beatles
+function iLoveTheBeatles(n) {
+  var loveBeatlesArray = [];
+  
+  
+  
+}
